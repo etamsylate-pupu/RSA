@@ -56,17 +56,17 @@
 
 6. 参考结果
 
-   ![image-20201102105259479](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20201102105259479.png)
+   ![image-20201102105259479](https://github.com/etamsylate-pupu/RSA/result/result1.png)
 
    ​																			RSA加解密及数字签名
 
-   ![image-20201102105457156](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20201102105457156.png)
+   ![image-20201102105457156](https://github.com/etamsylate-pupu/RSA/result/result2.png)
 
-   ![image-20201102105512291](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20201102105512291.png)
+   ![image-20201102105512291](https://github.com/etamsylate-pupu/RSA/result/result3.png)
 
    ​																		大素数p, q生成及计算n,d
 
-   #### steps:
+#### steps:
 
    1. Linux虚拟机安装GMP库；
    2. 使用g++对.cpp文件进行编译生成可执行程序，格式为:g++ rsa_demo.cpp -o RSA_run -lgmp -lgmpxx；
