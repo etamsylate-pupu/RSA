@@ -56,13 +56,13 @@
 
 6. 参考结果
 
-   ![image-20201102105259479](https://github.com/etamsylate-pupu/RSA/result/result1.png)
+   ![image](https://github.com/etamsylate-pupu/RSA/result/result1.png)
 
    ​																			RSA加解密及数字签名
 
-   ![image-20201102105457156](https://github.com/etamsylate-pupu/RSA/result/result2.png)
+   ![image](https://github.com/etamsylate-pupu/RSA/result/result2.png)
 
-   ![image-20201102105512291](https://github.com/etamsylate-pupu/RSA/result/result3.png)
+   ![image](https://github.com/etamsylate-pupu/RSA/result/result3.png)
 
    ​																		大素数p, q生成及计算n,d
 
